@@ -1,0 +1,6 @@
+Download dataset in csv file
+download mysql workbench
+create database ,table and dump data from csv files in mysql database
+do some sql queries using-Inbuilt functions,userdefined functions,stored procedure,views,constraints,ddl,dml,loops,primary key
+migrate local mysql workbench to cloudsql(google) 
+used data warehouse tools like bigquery(google cloud) or hive(hadoop) to optimize results by using partitions/clustering
